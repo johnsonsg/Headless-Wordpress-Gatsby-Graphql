@@ -1,0 +1,1 @@
+{"data":{"wpMenu":{"name":"Main Menu","menuItems":{"nodes":[{"label":"Home","url":"http://localhost:8888/kinloch/code/kinloch-wp-2021/","parentId":null,"connectedNode":{"node":{"__typename":"WpPage","uri":"/"}}},{"label":"Sample Page","url":"/sample-page/","parentId":null,"connectedNode":{"node":{"__typename":"WpPage","uri":"/sample-page/"}}}]}}}}
